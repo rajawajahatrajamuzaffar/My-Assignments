@@ -1,0 +1,68 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.nav{
+    padding: 15px;
+     width: 76%;
+    background-color:rgb(46, 41, 41);
+    color: white;
+    display: flex;
+    justify-content: space-around;
+}
+.first{
+    font-style:italic;
+    width: 5%;
+}
+.sec{
+    display: flex;
+    justify-content: space-around;
+    gap: 20%;
+}
+
+.butt{
+    background-color: orangered;
+    color: white;
+  border-color: orangered;
+}
+.main{
+    display: flex;
+    justify-content: space-around;
+    width: 75%;
+    align-items: center;
+}
+.para{
+    display: flex;
+}
+
+.center{
+    text-align: center;
+
+}
+.sec2{
+    background-color: beige;
+    width: 78%;
+    display: flex;
+    justify-content: space-around;
+}
+.footer{
+    background-color: black;
+    color: white;
+}
+.p1{
+    display: flex;
+    gap: 10px;
+}.p2{
+    display: flex;
+    gap: 10px;
+}.p3{
+    display: flex;
+    gap: 10px;
+}
+.sir{ 
+    width: 78%;
+    background-color: black;
+    color: white;
+    display: flex;
+}
+
