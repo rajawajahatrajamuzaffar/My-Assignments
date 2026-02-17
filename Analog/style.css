@@ -1,0 +1,36 @@
+.heading{
+    width: 100%;
+    text-align: center;
+   font-style: unset;
+}
+.line{
+   background-color: black;
+   padding: 2px;
+   width: 90%;
+}
+body{
+    border: 3px double black;
+   width: 60%;
+  margin: auto;
+}
+.nav{
+    display: flex;
+    justify-content: space-around;
+    margin: 15px;
+}
+.unline{
+    background-color: black;
+    width: 90%;
+}
+.pic{
+    display: flex;
+    justify-content: center;
+   padding: 50px;
+}
+.para{
+    display: flex;
+    text-align: center;
+}
+.red{
+    color: red;
+}
